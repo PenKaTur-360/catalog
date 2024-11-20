@@ -1,2 +1,3 @@
-# catalog
-The PenKaTur catalog
+# The PenKaTur catalog
+
+This is an example of the PenKaTur catalog

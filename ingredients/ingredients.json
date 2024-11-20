@@ -1,0 +1,56 @@
+[
+  {
+    "code": "ex_ing_001",
+    "name": "Example ingredient one",
+    "nutrition": [
+      {
+        "quantity": 100,
+        "unit": "g",
+        "description": "ingredient one",
+        "nutritionalValues": {
+          "energy": 100,
+          "fats": 10,
+          "carbohydrates": 10,
+          "sugar": 5,
+          "fiber": 10,
+          "protein": 10,
+          "salt": 0.1
+        }
+      }
+    ]
+  },
+  {
+    "code": "ex_ing_002",
+    "name": "Example ingredient two",
+    "nutrition": [
+      {
+        "quantity": 100,
+        "unit": "g",
+        "description": "ingredient two",
+        "nutritionalValues": {
+          "energy": 100,
+          "fats": 10,
+          "carbohydrates": 10,
+          "sugar": 5,
+          "fiber": 10,
+          "protein": 10,
+          "salt": 0.1
+        }
+      },
+      {
+        "quantity": 10,
+        "unit": "g",
+        "description": "part of ingredient two",
+        "nutritionalValues": {
+          "energy": 10,
+          "fats": 1,
+          "carbohydrates": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "protein": 1,
+          "salt": 0
+        }
+      }
+    ]
+  }
+]

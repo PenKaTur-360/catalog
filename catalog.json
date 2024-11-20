@@ -1,0 +1,8 @@
+{
+  "name": "The PenKaTur catalog example",
+  "version": "example",
+
+  "ingredients": [
+    "ingredients/ingredients.json"
+  ]
+}
